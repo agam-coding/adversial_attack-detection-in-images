@@ -1,0 +1,45 @@
+Experiment Results for experiments/generations*
+==================================================
+
+Record 1:
+  Parameters:
+    generations: 60
+    population_size: 30
+    mutation_probability: 0.8
+    mutation_num_genes: 3
+    crossover_probability: 0.2
+    perturbation_importance: 0.05
+  Results (5 repetitions):
+    Repetition 1:
+      Final fitness: 0.45272257116584086
+      Initial fitness: 0.45270370977692814
+      Improvement: 1.8861388912716492e-05
+      Accuracy: 0.5799999833106995
+    Repetition 2:
+      Final fitness: 0.45258707697522155
+      Initial fitness: 0.4525569195485913
+      Improvement: 3.0157426630261774e-05
+      Accuracy: 0.5799999833106995
+    Repetition 3:
+      Final fitness: 0.4525097954785428
+      Initial fitness: 0.4525097954785428
+      Improvement: 0.0
+      Accuracy: 0.5699999928474426
+    Repetition 4:
+      Final fitness: 0.45250244276482693
+      Initial fitness: 0.45250244276482693
+      Improvement: 0.0
+      Accuracy: 0.5699999928474426
+    Repetition 5:
+      Final fitness: 0.45248620566641123
+      Initial fitness: 0.45243763995569286
+      Improvement: 4.8565710718373456e-05
+      Accuracy: 0.5799999833106995
+  Average Results:
+    Average accuracy: 0.5759999871253967
+    Average final fitness: 0.45256161841016873
+
+----------------------------------------
+
+
+Analysis completed at 2025-05-09 12:03:13

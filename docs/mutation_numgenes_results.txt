@@ -1,0 +1,185 @@
+Experiment Results for experiments/mutation_numgenes*
+==================================================
+
+Record 1:
+  Parameters:
+    generations: 40
+    population_size: 10
+    mutation_probability: 0.8
+    mutation_num_genes: 0
+    crossover_probability: 0.2
+    perturbation_importance: 0.05
+  Results (3 repetitions):
+    Repetition 1:
+      Final fitness: 0.4451746473313378
+      Initial fitness: 0.4451746473313378
+      Improvement: 0.0
+      Accuracy: 0.0
+    Repetition 2:
+      Final fitness: 0.44493306209588035
+      Initial fitness: 0.44493306209588035
+      Improvement: 0.0
+      Accuracy: 0.0
+    Repetition 3:
+      Final fitness: 0.4449521338273232
+      Initial fitness: 0.44494575729419944
+      Improvement: 6.376533123741979e-06
+      Accuracy: 0.0
+  Average Results:
+    Average accuracy: 0.0
+    Average final fitness: 0.44501994775151377
+
+----------------------------------------
+
+Record 2:
+  Parameters:
+    generations: 40
+    population_size: 10
+    mutation_probability: 0.8
+    mutation_num_genes: 2
+    crossover_probability: 0.2
+    perturbation_importance: 0.05
+  Results (3 repetitions):
+    Repetition 1:
+      Final fitness: 0.4269092092476999
+      Initial fitness: 0.4268731733071987
+      Improvement: 3.603594050116676e-05
+      Accuracy: 0.0
+    Repetition 2:
+      Final fitness: 0.4269138607398323
+      Initial fitness: 0.4268418576543317
+      Improvement: 7.200308550059376e-05
+      Accuracy: 0.0
+    Repetition 3:
+      Final fitness: 0.42685719096352825
+      Initial fitness: 0.42685719096352825
+      Improvement: 0.0
+      Accuracy: 0.0
+  Average Results:
+    Average accuracy: 0.0
+    Average final fitness: 0.4268934203170202
+
+----------------------------------------
+
+Record 3:
+  Parameters:
+    generations: 40
+    population_size: 10
+    mutation_probability: 0.8
+    mutation_num_genes: 4
+    crossover_probability: 0.2
+    perturbation_importance: 0.05
+  Results (3 repetitions):
+    Repetition 1:
+      Final fitness: 0.43728450838402705
+      Initial fitness: 0.43728450838402705
+      Improvement: 0.0
+      Accuracy: 0.029999999329447746
+    Repetition 2:
+      Final fitness: 0.4373767372406285
+      Initial fitness: 0.4373767372406285
+      Improvement: 0.0
+      Accuracy: 0.029999999329447746
+    Repetition 3:
+      Final fitness: 0.4373165458510071
+      Initial fitness: 0.4373165458510071
+      Improvement: 0.0
+      Accuracy: 0.029999999329447746
+  Average Results:
+    Average accuracy: 0.029999999329447746
+    Average final fitness: 0.4373259304918875
+
+----------------------------------------
+
+Record 4:
+  Parameters:
+    generations: 40
+    population_size: 10
+    mutation_probability: 0.8
+    mutation_num_genes: 6
+    crossover_probability: 0.2
+    perturbation_importance: 0.05
+  Results (3 repetitions):
+    Repetition 1:
+      Final fitness: 0.4479443346668475
+      Initial fitness: 0.4479443346668475
+      Improvement: 0.0
+      Accuracy: 0.009999999776482582
+    Repetition 2:
+      Final fitness: 0.44813891368227315
+      Initial fitness: 0.4480023842852484
+      Improvement: 0.00013652939702474276
+      Accuracy: 0.009999999776482582
+    Repetition 3:
+      Final fitness: 0.4481863094391757
+      Initial fitness: 0.44807840699089185
+      Improvement: 0.00010790244828384754
+      Accuracy: 0.009999999776482582
+  Average Results:
+    Average accuracy: 0.009999999776482582
+    Average final fitness: 0.4480898525960988
+
+----------------------------------------
+
+Record 5:
+  Parameters:
+    generations: 40
+    population_size: 10
+    mutation_probability: 0.8
+    mutation_num_genes: 8
+    crossover_probability: 0.2
+    perturbation_importance: 0.05
+  Results (3 repetitions):
+    Repetition 1:
+      Final fitness: 0.43651784635860263
+      Initial fitness: 0.43651784635860263
+      Improvement: 0.0
+      Accuracy: 0.05000000074505806
+    Repetition 2:
+      Final fitness: 0.4365199087537856
+      Initial fitness: 0.4365199087537856
+      Improvement: 0.0
+      Accuracy: 0.05000000074505806
+    Repetition 3:
+      Final fitness: 0.4365377379698772
+      Initial fitness: 0.4364562141026903
+      Improvement: 8.152386718690563e-05
+      Accuracy: 0.05000000074505806
+  Average Results:
+    Average accuracy: 0.05000000074505806
+    Average final fitness: 0.4365251643607551
+
+----------------------------------------
+
+Record 6:
+  Parameters:
+    generations: 40
+    population_size: 10
+    mutation_probability: 0.8
+    mutation_num_genes: 10
+    crossover_probability: 0.2
+    perturbation_importance: 0.05
+  Results (3 repetitions):
+    Repetition 1:
+      Final fitness: 0.44260925588385097
+      Initial fitness: 0.44260925588385097
+      Improvement: 0.0
+      Accuracy: 0.0
+    Repetition 2:
+      Final fitness: 0.44245338861257427
+      Initial fitness: 0.44245338861257427
+      Improvement: 0.0
+      Accuracy: 0.009999999776482582
+    Repetition 3:
+      Final fitness: 0.4427880685352492
+      Initial fitness: 0.4427880685352492
+      Improvement: 0.0
+      Accuracy: 0.0
+  Average Results:
+    Average accuracy: 0.0033333332588275275
+    Average final fitness: 0.44261690434389145
+
+----------------------------------------
+
+
+Analysis completed at 2025-05-09 12:03:13
